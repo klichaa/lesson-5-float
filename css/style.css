@@ -1,1 +1,31 @@
 /*base styles*/
+.float-r{
+	float: right;
+}
+.float-l{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.v-a-middle{
+	vertical-align: middle;
+}
+/*header*/
+.header{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.logo{
+margin-right: 100px;
+}
+.nav{
+	margin: 23.2px 0px;
+}
+.div-nav{
+	height: 62.4px;
+}
+.nav-li{
+	margin-right: 30px;
+	font-size: 24px;
+}
